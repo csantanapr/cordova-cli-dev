@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "ansi": "^0.3.0",
-    "cordova-lib": "6.0.0",
+    "cordova-lib": "csantanapr/cordova-lib-dev",
     "q": "1.0.1",
     "nopt": "3.0.1",
     "underscore": "1.7.0",
